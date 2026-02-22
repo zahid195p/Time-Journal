@@ -5,7 +5,7 @@
 **Size:** ~80KB  
 **Compatibility:** Any modern browser (Chrome, Safari, Firefox, Edge) — desktop & mobile  
 **Storage:** localStorage (all data stays on your device)
-
+link: https://zahid195p.github.io/Time-Journal/
 ---
 
 ## What It Is
